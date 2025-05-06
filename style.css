@@ -1,0 +1,48 @@
+
+body {
+  background-color: #ffffff;
+  color: #212529;
+  font-family: 'Segoe UI', sans-serif;
+  scroll-behavior: smooth;
+}
+
+.dark-theme {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+.navbar {
+  background-color: #1a2940 !important;
+}
+
+.navbar .nav-link,
+.navbar-brand {
+  color: white !important;
+}
+
+.inicio {
+  background: linear-gradient(135deg, #193052, #6c757d);
+  color: white;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.section {
+  padding: 80px 0;
+}
+
+
+
+.dark-theme .code-box {
+  background-color: #2a2a2a;
+  color: #f1f1f1;
+}
+
+.dark-theme .card {
+  background-color: transparent;
+  color: #212529;
+}
+
+.dark-theme .nav-link:hover {
+  color: #f8f9fa !important;
+}
